@@ -1,0 +1,36 @@
+.caseNumber{
+    font-size: 1.25rem;
+    line-height: 155%;
+    /* identical to box height, or 31px */
+    /* Black */
+
+    color: #000000;
+}
+.title{
+    font-weight: 600;
+    /* font-size: 16px; */
+    line-height: 2rem;
+    /* identical to box height, or 200% */
+
+    letter-spacing: -0.04em;
+
+    color: #1D2538;
+}
+.label{
+    line-height: 155%;
+    color: #595A5B;
+}
+.text{
+    font-size: 0.875rem;
+    line-height: 155%;
+    color: #121212;
+    white-space: pre-line;
+}
+.dateTime{
+    font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+
+color: #3E3E3E;
+}

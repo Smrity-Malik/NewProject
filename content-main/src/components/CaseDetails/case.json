@@ -1,0 +1,97 @@
+{
+  "createdAt": "2022-08-06T06:45:05Z",
+  "amount":"20,00,000",
+  "caseNumber": {
+    "type": "Criminal",
+    "year": "2016",
+    "number": "5555"
+  },
+  "respondent": [
+    {
+      "name": "Patanjali Kumar",
+      "type": "Individual",
+      "email": "pat.kumar.monu@gmail.com",
+      "phone": "08448616148",
+      "sonOf": "Papa",
+      "companyType": "Company",
+      "residenceOf": "res\n1234",
+      "corporateOfficeAddress": "",
+      "registeredOfficeAddress": ""
+    },
+    {
+      "name": "Patanjali Kumar",
+      "type": "Individual",
+      "email": "pat.kumar.monu@gmail.com",
+      "phone": "08448616148",
+      "sonOf": "Papa",
+      "companyType": "Company",
+      "residenceOf": "res\n1234",
+      "corporateOfficeAddress": "",
+      "registeredOfficeAddress": ""
+    }
+  ],
+  "complainant": [
+    {
+      "name": "Patanjali Kumar",
+      "type": "Individual",
+      "email": "pat.kumar.monu@gmail.com",
+      "phone": "08448616148",
+      "sonOf": "Papa",
+      "companyType": "Company",
+      "residenceOf": "res\n123",
+      "corporateOfficeAddress": "",
+      "registeredOfficeAddress": ""
+    },
+    {
+      "name": "Patanjali Kumar",
+      "type": "Individual",
+      "email": "pat.kumar.monu@gmail.com",
+      "phone": "08448616148",
+      "sonOf": "Papa",
+      "companyType": "Company",
+      "residenceOf": "res\n123",
+      "corporateOfficeAddress": "",
+      "registeredOfficeAddress": ""
+    }
+  ],
+  "courtDetails": {
+    "city": "Tis Hazari",
+    "state": "Mumbai",
+    "nextDate": "2022-08-05T00:00:00+05:30",
+    "courtType": "High Court",
+    "judgeName": "Chaavi"
+  },
+  "formCompleted": true,
+  "respondent lawyer": [
+    {
+      "name": "Patanjali Kumar",
+      "type": "Individual",
+      "email": "pat.kumar.monu@gmail.com",
+      "phone": "08448616148",
+      "sonOf": "Papa",
+      "companyType": "Company",
+      "residenceOf": "Addr\n1234",
+      "corporateOfficeAddress": "",
+      "registeredOfficeAddress": ""
+    }
+  ],
+  "complainant lawyer": [
+    {
+      "name": "Patanjali Kumar",
+      "type": "Entity",
+      "email": "pat.kumar.monu@gmail.com",
+      "phone": "",
+      "sonOf": "",
+      "companyType": "Partnership Firm",
+      "residenceOf": "",
+      "corporateOfficeAddress": "B239 Street No 3\nSubhash Nagar",
+      "registeredOfficeAddress": "B239 Street No 3"
+    }
+  ],
+  "companyRepresentative": {
+    "name": "Person 1",
+    "email": "pat.kumar.monu@gmail.com",
+    "phone": "8448616148",
+    "designation": "Director"
+  }
+}

@@ -1,0 +1,29 @@
+.bgRed{
+    /* background: #E14646; */
+    border-radius: 1rem 1.2rem 1.2rem 1rem;
+    filter: drop-shadow(0px 8px 36px rgba(74, 74, 74, 0.09));
+}
+.topBox{
+    background: #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 1rem;
+    /* height: 102px; */
+    /* padding: 0 1.5rem; */
+    /* padding-top: 1rem; */
+}
+.task{
+    font-size: 12px;
+    line-height: 0.9375rem;
+    color: #BABABA;
+}
+.heading{
+    font-weight: 600;
+    font-size: 1rem;
+    line-height: 1.25rem;
+    color: #121212;
+}
+.detail{
+    font-size: 0.75rem;
+    line-height: 0.9375rem;
+    color: #3E3E3E;
+}

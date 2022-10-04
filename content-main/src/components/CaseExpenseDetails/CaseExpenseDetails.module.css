@@ -1,0 +1,28 @@
+.container{
+    padding-bottom: 5.8125rem;
+}
+.title{
+    line-height: 1.25rem;
+/* identical to box height */
+
+
+color: #252525;
+}
+.heading{
+    font-size: 0.875rem;
+line-height: 1.125rem;
+
+/* Neutral / 500 */
+
+color: #64748B;
+}
+.map{
+    background: #FFFFFF;
+border-radius: 10.5635px;
+height: 22.8125rem;
+}
+
+/* .pagination{
+    background: #F1F3F5;
+border-radius: 4px;
+} */

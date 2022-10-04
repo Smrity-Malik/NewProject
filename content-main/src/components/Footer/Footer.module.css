@@ -1,0 +1,40 @@
+.footerContainer {
+    background-color: #F8FDFF;
+    padding-top: 2.5rem;
+    padding-right: 8.125rem;
+    padding-left: 5rem;
+    margin-bottom: 4rem;
+}
+
+.logo {
+    width: 12.5rem;
+    height: 2.0625rem;
+}
+
+.headerItem{
+    color: #2C2C2C;
+    /*font-weight: 600;*/
+    font-size: 1.5rem;
+    line-height: 126.9%;
+    /* or 1.875rem */
+
+    letter-spacing: 0.02em;
+}
+
+.copyRightText {
+    font-weight: 400;
+    font-size: 0.875rem;
+    line-height: 1.5rem;
+    /* or 171% */
+
+    font-feature-settings: 'salt' on, 'liga' off;
+
+    color: #000000;
+
+}
+
+
+.socialIcons {
+    height: 1.5rem;
+    width: 1.5rem;
+}

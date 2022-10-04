@@ -1,0 +1,157 @@
+.topHeading {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 4rem;
+    line-height: 4.8125rem;
+    /* or 120% */
+    color: #000000;
+    margin-top: 0.75rem;
+}
+
+.topSubHeading {
+    font-weight: 400;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    /* or 134% */
+    letter-spacing: 0.04em;
+
+    color: #858585;
+}
+
+.homePageImage{
+    z-index: 1;
+    position: absolute;
+    top: -1.6875rem;
+    right: 0;
+    width: 48.25rem;
+    height: 64.75rem;
+}
+
+.bookDemoBtn {
+    width: 18.75rem;
+    height: 3.75rem;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.5rem;
+    line-height: 126.9%;
+    /* or 1.875rem */
+    background: #46BDE1;
+    border-radius: 0.625rem;
+    color: #FFFFFF;
+}
+
+.sectionHeading {
+    font-weight: 800;
+    font-size: 2.5rem;
+    line-height: 5.625rem;
+    color: #000000;
+}
+
+.textPrimaryColor {
+    color: #46BDE1;
+}
+
+.textSmall {
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 2rem;
+    /* or 201% */
+
+    letter-spacing: 0.04em;
+
+    color: #545658;
+}
+
+.moduleContainer {
+    width: 25rem;
+    background: #FFFFFF;
+    box-shadow: 0 0.8125rem 1rem rgba(17, 38, 146, 0.05);
+    border-radius: 1rem;
+    @apply pl-9 pt-10 pb-6 pr-5 flex flex-col
+}
+
+.moduleContainer .image {
+    width: 2.875rem;
+    height: 3.6875rem;
+    object-fit: cover;
+    @apply mr-6
+}
+
+.moduleContainer .heading {
+    font-weight: 800;
+    font-size: 1.5rem;
+    line-height: 3.8125rem;
+    /* identical to box height, or 254% */
+
+
+    color: #60626E;
+}
+
+.moduleContainer .subHeading {
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 2rem;
+    /* identical to box height, or 201% */
+
+    letter-spacing: 0.04em;
+
+    color: #858585;
+}
+
+.partnerShipOptionsSubHead {
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 2rem;
+    /* or 201% */
+    text-align: center;
+    letter-spacing: 0.04em;
+
+    color: #545658;
+}
+
+.featuresContainer {
+    width: 37.5rem;
+    z-index: 2;
+    @apply mx-6 flex flex-col items-center
+}
+
+.laptop {
+    width: 4rem;
+    height: 2.25rem;
+}
+
+.featuresHeading {
+    font-weight: 700;
+    font-size: 1.5rem;
+    line-height: 4.8125rem;
+    /* or 321% */
+    color: #000000;
+}
+
+.featureText {
+    font-weight: 400;
+    font-size: 1.125rem;
+    line-height: 2rem;
+    /* or 179% */
+
+    letter-spacing: 0.04em;
+
+    color: #1D2125;
+}
+
+.waveBg {
+    position: absolute;
+    width: 100vw;
+    height: 32.5rem;
+    z-index: 1;
+    bottom: 5rem;
+    left: 0;
+}
+
+.partnerShipOptionsContainer {
+    background-color: #FBFEFF;
+}
+
+.footerBg {
+    background-color: #F8FDFF;
+}

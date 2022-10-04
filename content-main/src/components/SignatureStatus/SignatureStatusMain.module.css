@@ -1,0 +1,28 @@
+.signHeading{
+    font-weight: 400;
+font-size: 1.25rem;
+line-height: 155%;
+color: #000000;
+}
+.statusHeading{
+    font-weight: 300;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+
+
+/* Secondary/Dark Color */
+
+color: #54595E;
+}
+.statusText{
+    font-weight: 300;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+
+/* Dark / Medium */
+
+color: #4F4F4F;
+}

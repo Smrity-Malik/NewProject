@@ -1,0 +1,20 @@
+.caseHeader{
+    font-size: 1.25rem;
+    line-height: 1.5625rem;
+    color: #54595E;
+}
+.caseTitle{
+    font-size: 0.875rem;
+    line-height: 1.5rem;    
+    color: #4F4F4F;
+}
+.label{
+    line-height: 155%;
+    color: #595A5B;
+}
+.text{
+    font-weight: 600;
+    font-size: 0.875rem;
+    line-height: 155%;
+    color: #121212;
+}

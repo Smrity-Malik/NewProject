@@ -1,0 +1,62 @@
+.signHeading{
+    font-weight: 400;
+font-size: 1.25rem;
+line-height: 155%;
+color: #000000;
+}
+.link{
+    font-weight: 300;
+font-size: 0.875rem;
+line-height: 1.5rem;
+/* or 171% */
+
+text-decoration-line: underline;
+
+/* Primary */
+
+color: #46BDE1;
+}
+.title{
+    font-weight: 400;
+font-size: 1.25rem;
+line-height: 25px;
+/* identical to box height */
+
+
+/* Secondary/Dark Color */
+
+/*color: #54595E;*/
+}
+
+.text{
+    font-weight: 300;
+font-size: 0.875rem;
+line-height: 1.5rem;
+/* or 171% */
+
+
+/* Dark / Medium */
+
+color: #4F4F4F;
+}
+.emailParty{
+    font-weight: 300;
+/* font-size: 1rem; */
+line-height: 155%;
+/* identical to box height, or 25px */
+
+
+color: #595A5B;
+}
+.links{
+    font-weight: 300;
+font-size: 1.25rem;
+line-height: 1.5rem;
+/* or 120% */
+
+text-decoration-line: underline;
+
+/* Primary */
+
+color: #46BDE1;
+}

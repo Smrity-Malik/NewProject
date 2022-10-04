@@ -1,0 +1,41 @@
+.label{
+    font-weight: 300;
+/* font-size: 16px; */
+line-height: 155%;
+/* identical to box height, or 25px */
+
+
+color: #595A5B;
+}
+.email{
+    font-weight: 300;
+font-size: 0.875rem;
+line-height: 1.125rem;
+/* identical to box height */
+
+
+/* Neutral / 500 */
+
+color: #64748B;
+}
+.badgeText{
+    font-weight: 300;
+font-size: 0.625rem;
+line-height: 155%;
+/* identical to box height, or 15px */
+
+/* display: flex;
+align-items: center; */
+text-align: center;
+
+color: #121212;
+}
+.date{
+    font-weight: 300;
+font-size: 0.875rem;
+line-height: 155%;
+/* identical to box height, or 22px */
+
+
+color: #121212;
+}

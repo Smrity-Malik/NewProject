@@ -1,0 +1,33 @@
+.detailHeader{
+    font-weight: 500;
+/* font-size: 16px; */
+    line-height: 1.25rem;
+    color: #121212;
+}
+.date{
+    /* font-weight: 400; */
+    font-size: 0.75rem;
+    line-height: 0.9375rem;
+/* identical to box height */
+color: #7F7F7F;
+}
+.detailTitle{
+    /* font-weight: 400; */
+font-size: 0.875rem;
+line-height: 1.125rem;
+/* identical to box height */
+color: #121212;
+}
+.detailText{
+    /* font-weight: 400; */
+font-size: 0.75rem;
+line-height: 0.9375rem;
+/* identical to box height */
+color: #7F7F7F;
+}
+
+.bg{
+    background-color: #46BDE1;
+    border-radius: 8px;
+    color: #FFFFFF;
+}

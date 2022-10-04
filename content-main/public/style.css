@@ -1,0 +1,9 @@
+.bgTheme{
+    background-color: #46BDE1;
+}
+
+.cardShadow{
+    box-shadow: 0 .625rem .8125rem rgba(17, 38, 146, 0.05);
+    border-radius: .5rem;
+
+}

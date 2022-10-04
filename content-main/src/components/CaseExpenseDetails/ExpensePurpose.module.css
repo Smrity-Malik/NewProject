@@ -1,0 +1,37 @@
+.expenseTitle{
+    font-size: 1.25rem;
+line-height: 1.5625rem;
+/* identical to box height */
+color: #54595E;
+}
+
+.expenseInfo{
+    font-size: 0.875rem;
+line-height: 1.5rem;
+color: #4F4F4F;
+}
+.paymentReceipt{
+    line-height: 1.25rem;
+/* identical to box height, or 125% */
+letter-spacing: -0.5px;
+/* Neutral / 800 */
+color: #191D23;
+width: 80%;
+}
+.heading{
+    line-height: 155%;
+/* identical to box height, or 25px */
+color: #595A5B;
+}
+.amount{
+    font-size: 1.25rem;
+line-height: 155%;
+/* identical to box height, or 31px */
+color: #6282FE;
+}
+.detail{
+    font-size: 0.875rem;
+line-height: 155%;
+/* identical to box height, or 22px */
+color: #121212;
+}

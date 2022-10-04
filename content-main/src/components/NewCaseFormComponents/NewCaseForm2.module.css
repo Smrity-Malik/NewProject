@@ -1,0 +1,23 @@
+.attachFile{
+    font-size: 1.125rem;
+    line-height: 155%;
+    color: #212529;
+}
+.dropBox{
+    box-sizing: border-box;
+    background: rgba(84, 140, 168, 0.08);
+    height: 8.875rem;
+    border: 0.0625rem dashed rgba(84, 140, 168, 0.08);
+    border-radius: 1rem;
+    align-items: center;
+}
+.agrement{
+    line-height: 1.25rem;
+    letter-spacing: -0.0313rem;
+    color: #191D23;
+}
+/* .btn{
+    border: #46BDE1;
+    outline: #46BDE1;
+    color: #46BDE1;
+} */

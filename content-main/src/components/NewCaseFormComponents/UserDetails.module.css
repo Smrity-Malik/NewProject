@@ -1,0 +1,21 @@
+.heading{
+    font-weight: 500;
+    font-size: 0.875rem;
+    line-height: 2rem;
+    letter-spacing: -0.04em;
+    color: #1D2538;
+}
+.detail{
+    font-size: 0.875rem;
+    line-height: 150%;
+    color: #273150;
+    opacity: 0.7;
+}
+.greenBox{
+    border:  1px solid rgb(135, 212, 135);
+    border-radius: 0.125rem;
+}
+.redBox{
+    border:  1px solid rgb(223, 79, 79);
+    border-radius: 0.125rem;
+}

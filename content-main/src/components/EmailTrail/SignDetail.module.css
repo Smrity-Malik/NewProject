@@ -1,0 +1,60 @@
+.headerTitle{
+    font-size: 1.25rem;
+line-height: 155%;
+
+/* Black */
+
+color: #000000;
+}
+.title{
+    font-size: 1.125rem;
+line-height: 1.375rem;
+/* identical to box height */
+
+
+color: #121212;
+}
+.text{
+    /* font-weight: 400; */
+font-size: 0.875rem;
+line-height: 1.5rem;
+/* or 171% */
+
+/* Dark / Medium */
+
+color: #4F4F4F;
+}
+.email{
+    /* font-weight: 400; */
+font-size: 0.875rem;
+line-height: 1.125rem;
+/* identical to box height */
+
+
+color: #7F7F7F;
+}
+.date{
+    /* font-weight: 400; */
+font-size: 0.875rem;
+line-height: 1.125rem;
+/* identical to box height */
+
+
+color: #7F7F7F;
+}
+.signTitle{
+    font-weight: 500;
+font-size: 1.75rem;
+line-height: 2.1875rem;
+/* identical to box height */
+
+
+color: #121212;
+
+}
+.signText{
+    font-size: 0.875rem;
+line-height: 1.125rem;
+
+color: #7F7F7F;
+}

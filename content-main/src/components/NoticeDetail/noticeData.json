@@ -1,0 +1,24 @@
+{
+    "sender":[
+        {
+            "name": "Sid Ace",
+            "type": "sender",
+            "email": "Sid@gamil.com",
+            "phone": "9013657183",
+            "designation": "Manager"
+        }
+    ], 
+    "receipient":[
+        {
+            "name": "Sid Ace",
+            "type": "receipient",
+            "email": "Sid@gamil.com",
+            "phone": "9013657183",
+            "designation": "Manager",
+            "purpose": "Other",
+            "subPurpose": "Other",
+            "noticePeriod": "7 days",
+            "requestedBy": "sid enamls"
+        }
+    ]
+}

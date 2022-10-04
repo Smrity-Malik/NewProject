@@ -1,0 +1,12 @@
+.userDetails{
+    font-size: 14px;
+    line-height: 1.125rem;
+}
+.name{
+    font-weight: 600;
+    color: #191D23;
+}
+.email{
+    font-weight: 400;
+    color: #64748B;
+} 

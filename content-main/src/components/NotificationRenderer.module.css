@@ -1,0 +1,20 @@
+.containerUnSeen {
+    background-color: #46BDE1;
+    color: white;
+}
+
+.containerSeen {
+    background-color: #F0F0F0;
+    color: #46BDE1;
+}
+
+.mainDiv {
+    width: 70%;
+    max-width: 70%;
+}
+
+.actionDiv {
+    width: 30%;
+    max-width: 30%;
+}
+

@@ -1,0 +1,100 @@
+.crossLogo{
+    background: #E5E5E5;
+    border-radius: 1.8125rem;
+    padding: 0.625rem 0.625rem;
+    margin-top: 0.625rem;
+    margin-left: 0.625rem;
+}
+.taskHeader{
+    font-weight: 600;
+    font-size: 1.25rem;
+    line-height: 1.5625rem;
+    color: #54595E;
+}
+.btns{
+    gap: 1rem;
+}
+/* .lightBtn{
+    color: #121212;
+    background: #FFF8B5;
+    border-radius: 1rem;
+} */
+.lightBtn:hover{
+    color: #121212;
+    background: #FFF8B5;
+}
+.filledBtn{
+    background: #46BDE1;
+    border-radius: 0.5rem;
+    color: #F5F5F5;
+}
+.filledBtn:hover{
+    color: #F5F5F5;
+    background: #46BDE1;
+}
+.taskDesc{
+    font-size: 14px;
+    line-height: 24px;
+    color: #4F4F4F;
+    white-space: pre-line;
+}
+.right{
+    margin-right: 56px;
+}
+.detail{
+    line-height: 155%;
+    color: #595A5B;
+}
+.info{
+    font-weight: 600;
+    font-size: 0.875rem;
+    line-height: 155%;
+    color: #121212;
+}
+.file{
+    line-height: 155%;
+    color: #595A5B;
+}
+.dropBox{
+    box-sizing: border-box;
+    background: rgba(84, 140, 168, 0.08);
+    height: 8.875rem;
+    border: 1px dashed rgba(84, 140, 168, 0.08);
+    border-radius: 1rem;
+    align-items: center;
+}
+.assign{
+    line-height: 155%;
+    color: #595A5B;
+}
+.remark{
+    line-height: 155%;
+    color: #595A5B;
+}
+.remarkRow{
+    background: #F5F5F5;
+    border-radius: 1rem;
+}
+.remarkTitle{
+    font-size: 0.875rem;
+    line-height: 155%;
+    margin-left: 2.875rem;
+    color: #121212;
+}
+.addRemark{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.textarea{
+    width: 800px;
+}
+.saveBtn{
+    background: #46BDE1;
+    border-radius: 0.5rem;
+    color: #F5F5F5;
+}
+.saveBtn:hover{
+    color: #F5F5F5;
+    background: #46BDE1;
+}

@@ -1,0 +1,21 @@
+.label {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 32px;
+  /* identical to box height, or 229% */
+
+  letter-spacing: -0.04em;
+
+  color: #1D2538;
+}
+
+.text {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 150%;
+  /* identical to box height, or 21px */
+  white-space: pre-line;
+  color: #273150;
+
+  opacity: 0.7;
+}

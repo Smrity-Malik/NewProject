@@ -1,0 +1,42 @@
+
+.dateTime{
+    font-weight: 300;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+
+color: #3E3E3E;
+}
+.label{
+    font-weight: 300;
+font-size: 16px;
+line-height: 155%;
+/* identical to box height, or 25px */
+
+
+color: #595A5B;
+
+}
+.text{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 155%;
+    /* identical to box height, or 22px */
+    
+    
+    color: #121212;
+}
+.title{
+    font-weight: 400;
+font-size: 20px;
+line-height: 155%;
+/* identical to box height, or 31px */
+
+/* display: flex;
+align-items: center; */
+
+/* Black */
+
+color: #000000;
+}

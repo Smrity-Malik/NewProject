@@ -1,0 +1,54 @@
+.header{
+    font-weight: 600;
+    font-size: 1.25rem;
+    line-height: 155%;
+    /* identical to box height, or 31px */    
+    /* Black */
+    
+    color: #000000;
+}
+.dateTime{
+    font-weight: 300;
+    font-size: 0.75rem;
+    line-height: 0.9375rem;
+    /* identical to box height */
+    
+    
+    color: #3E3E3E;
+}
+.label{
+    font-weight: 300;
+    font-size: 1rem;
+    line-height: 155%;
+    /* identical to box height, or 25px */
+    
+    
+    color: #595A5B;
+    
+}
+.text{
+    /* font-weight: 300; */
+    font-size: 0.875rem;
+    line-height: 155%;
+    /* identical to box height, or 22px */
+
+
+    color: #121212;
+}
+.badge{
+    font-weight: 300;
+font-size: 0.75rem;
+line-height: 155%;
+/* or 19px */
+
+color: #121212;
+}
+.btn{
+    font-weight: 300;
+font-size: 0.875rem;
+line-height: 1.125rem;
+/* identical to box height */
+/* Grey / Light */
+
+color: #F5F5F5;
+}

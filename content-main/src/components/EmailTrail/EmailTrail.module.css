@@ -1,0 +1,23 @@
+.title{
+    /* font-weight: 400; */
+font-size: 1.25rem;
+line-height: 155%;
+}
+.text{
+    /* font-weight: 400; */
+font-size: 0.875rem;
+line-height: 1.5rem;
+/* or 171% */
+
+/* Dark / Medium */
+
+color: #4F4F4F;
+}
+.box{
+    width: 25%;
+}
+/* .bg{
+    background-color: #46BDE1;
+    border-radius: 8px;
+    color: #FFFFFF;
+} */

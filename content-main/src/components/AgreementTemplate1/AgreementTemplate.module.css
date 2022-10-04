@@ -1,0 +1,22 @@
+.title{
+    font-weight: 300;
+font-size: 1.25rem;
+line-height: 1.5625rem;
+/* identical to box height */
+
+
+/* Secondary/Dark Color */
+
+color: #54595E;
+}
+.text{
+    font-weight: 300;
+font-size: 0.875rem;
+line-height: 1.5rem;
+/* or 171% */
+
+
+/* Dark / Medium */
+
+color: #4F4F4F;
+}

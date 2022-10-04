@@ -1,0 +1,18 @@
+.logo {
+    width: 12.5rem;
+    height: 2.0625rem;
+}
+
+.headerItem{
+    color: #2C2C2C;
+    /*font-weight: 600;*/
+    font-size: 1.5rem;
+    line-height: 126.9%;
+    /* or 1.875rem */
+
+    letter-spacing: 0.02em;
+}
+
+.headerContainer {
+    z-index: 5;
+}

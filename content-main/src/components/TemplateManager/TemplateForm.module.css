@@ -1,0 +1,59 @@
+.input{
+    font-weight: 300;
+font-size: 18px;
+line-height: 155%;
+/* identical to box height, or 28px */
+
+
+/* Gray/Gray 9 */
+
+color: #212529;
+}
+.title{
+    font-weight: 300;
+font-size: 20px;
+line-height: 155%;
+/* identical to box height, or 31px */
+
+/* display: flex;
+align-items: center; */
+
+/* Black */
+
+color: #000000;
+}
+.text{
+    font-weight: 300;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+
+/* Dark / Medium */
+
+color: #4F4F4F;
+}
+.btn{
+    font-weight: 300;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+
+/* Neutral / 800 */
+
+color: #191D23;
+}
+.btns{
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 18px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    
+    /* Grey / Light */
+    
+    color: #F5F5F5;
+}

@@ -1,0 +1,36 @@
+.agreementTitle{
+    font-weight: 300;
+    font-size: 1rem;
+    line-height: 1.25rem;
+    /* identical to box height, or 125% */
+    
+    letter-spacing: -0.5px;
+    
+    /* Neutral / 800 */
+    
+    color: #191D23;
+}
+.text{
+    font-weight: 300;
+font-size: 0.875rem;
+line-height: 1.125rem;
+/* identical to box height */
+
+
+/* Neutral / 500 */
+
+color: #64748B;
+}
+.date{
+    font-weight: 300;
+font-size: 0.75rem;
+line-height: 0.9375rem;
+/* identical to box height */
+
+
+color: #64748B;
+}
+.box{
+    border: 1px solid #46BDE1;
+    border-radius: 0.25rem;
+}

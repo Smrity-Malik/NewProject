@@ -1,0 +1,30 @@
+.expenseHeader{
+    font-size: 1.25rem;
+    line-height: 1.5625rem;
+    color: #54595E;
+}
+.expenseTitle{
+    font-size: 0.875rem;
+    line-height: 1.5rem;
+    color: #4F4F4F;
+}
+.label{
+    font-size: 1.125rem;
+line-height: 155%;
+/* identical to box height, or 28px */
+/* Gray/Gray 9 */
+
+color: #212529;
+}
+.file{
+    line-height: 155%;
+    color: #595A5B;
+}
+.dropBox{
+    box-sizing: border-box;
+    background: rgba(84, 140, 168, 0.08);
+    height: 8.875rem;
+    border: 0.0625rem dashed rgba(84, 140, 168, 0.08);
+    border-radius: 1rem;
+    align-items: center;
+}

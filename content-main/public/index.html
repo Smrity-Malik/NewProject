@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <meta name="referrer" content="strict-origin-when-cross-origin">
+    <meta
+      name="description"
+      content="Web site created using create-react-app"
+    />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <link rel="stylesheet" href="/style.css" />
+    <!--
+      manifest.json provides metadata used when your web app is installed on a
+      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <!--
+      Notice the use of %PUBLIC_URL% in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+    <title>TrueCounsel - A digital tool to manage and optimise legal operations for corporates</title>
+    <style>
+      div.mantine-Select-dropdown > div > div > div.mantine-ScrollArea-viewport > div > div {
+        padding: 0 !important;
+      }
+      div.mantine-MultiSelect-dropdown > div > div > div.mantine-ScrollArea-viewport > div > div {
+        padding: 0 !important;
+      }
+
+      .inputCustom {
+        width: 20rem;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 155%;
+      }
+
+      .inputCustom input, .inputCustom textarea {
+        padding: 12px;
+        color: #6d737a;
+      }
+
+      .ql-container {
+        border-bottom-left-radius: 0.5em;
+        border-bottom-right-radius: 0.5em;
+        background: #fefcfc;
+      }
+
+      /* Snow Theme */
+      .ql-snow.ql-toolbar {
+        display: block;
+        background: #eaecec;
+        border-top-left-radius: 0.5em;
+        border-top-right-radius: 0.5em;
+      }
+
+      .ql-editor {
+        min-height: 18rem;
+        /*min-width: 37.5rem;*/
+        /*max-height: 53.125rem;*/
+        /*max-width: 37.5rem;*/
+        /*height: 53.125rem;*/
+      }
+      .ql-container, .ql-editor, .ql-toolbar, .ql-snow {
+        width: 50rem !important;
+        max-width: 50rem !important;
+      }
+      html {
+        font-family: 'Lexend', sans-serif !important;
+      }
+      @media (min-width: 1000px) {
+        html {
+          font-size: 13px !important;
+        }
+      }
+
+      @media (min-width: 1279px) {
+        html {
+          font-size: 14px !important;
+        }
+      }
+
+      @media (min-width: 1366px) {
+        html {
+          font-size: 15px !important;
+        }
+      }
+
+      @media (min-width: 1440px) {
+        html {
+          font-size: 16px !important;
+        }
+      }
+
+      @media (min-width: 1680px) {
+        html {
+          font-size: 17px !important;
+        }
+        @media (min-width: 1800px) {
+          html {
+            font-size: 18px !important;
+          }
+        }
+      }
+      .ck-editor__editable{
+        min-height: 500px !important;
+        max-height: 800px !important;
+        overflow: scroll;
+      }
+    </style>
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+    <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+  </body>
+</html>
